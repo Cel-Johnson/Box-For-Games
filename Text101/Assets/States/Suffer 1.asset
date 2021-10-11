@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45328cf3e2488942b0d72f804a3ee93, type: 3}
+  m_Name: Suffer 1
+  m_EditorClassIdentifier: 
+  storyText: 'You pick up the table and smash it against the floor, the legs come
+    off and you take hold of one of them. You watch yourself in horror as your jaw
+    unginges and you devour the entire leg of the table.
+
+
+    1 EAT'
+  nextStates:
+  - {fileID: 11400000, guid: 448bfb03839ea624c8c398df8cb12b19, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45328cf3e2488942b0d72f804a3ee93, type: 3}
+  m_Name: 4.Blind
+  m_EditorClassIdentifier: 
+  storyText: 'You rush towards the light and it quickly becomes brighter and brighter,
+    its warm, maybe too warm? It is now burning your skin...
+
+    1.RUN           
+    2. Stay, it''s basically a hot-tub'
+  nextStates:
+  - {fileID: 11400000, guid: 09c2ca4d2f149ee4c9af3e7f2601a282, type: 2}
+  - {fileID: 11400000, guid: 32403200ba82b024e86050d9150b1c23, type: 2}
